@@ -1,4 +1,4 @@
-#¿Qué hace que una base de datos bioinformática sea buena?
+# ¿Qué hace que una base de datos bioinformática sea buena?
 Si bien el registro de datos biológicos en sí es útil, la manera en la que es registrada hace una gran diferencia en el valor de la base de datos tanto para los científicos como para los informáticos.
 En esta sección discutiremos dos tipos diferentes de base de datos públicas y los mecanismos que utilizan para describir los datos de manera consistente.
 
