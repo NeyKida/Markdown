@@ -16,3 +16,12 @@ tan importantes que existen bases de datos dedicadas a organizarlos. Por ejemplo
 datos de BioSamples](https://www.ebi.ac.uk/biosamples/) contiene metadatos sobre muestras 
 utilizadas para generar datos almacenados en ENA, PRIDE y ArrayExpress. Almacenar los metadatos
 de esta manera asegura que al citar una muestra específica se haga de manera consistente en varios recursos de datos.
+
+Imaginemos que la misma muestra de germoplasma almacenada en un banco de semillas ha sido utilizada 
+para secuenciación genómica, proteómica y RNAseq; estos tres experimentos relacionados pueden asociarse
+entre sí apuntando todos al mismo registro en la base de datos BioSamples. De esta manera, es posible 
+analizar los patrones de expresión génica y producción de proteínas en esta muestra y compararlos con 
+otros para aprender cómo la semilla está adaptada a un ambiente específico. Almacenar los metadatos 
+en una sola base de datos, en lugar de que hagan parte de los registros en tres o más base de datos
+separadas, es también es más rentable en términos de almacenamiento de datos, un problema que debe 
+tomarse extremadamente en serio en la era del big data.
