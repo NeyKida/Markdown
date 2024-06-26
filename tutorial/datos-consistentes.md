@@ -23,5 +23,11 @@ entre sí apuntando todos al mismo registro en la base de datos BioSamples. De e
 analizar los patrones de expresión génica y producción de proteínas en esta muestra y compararlos con 
 otros para aprender cómo la semilla está adaptada a un ambiente específico. Almacenar los metadatos 
 en una sola base de datos, en lugar de que hagan parte de los registros en tres o más base de datos
-separadas, es también es más rentable en términos de almacenamiento de datos, un problema que debe 
+separadas, es también, más rentable en términos de almacenamiento de datos, un problema que debe 
 tomarse extremadamente en serio en la era del big data.
+
+![Relación entre diferentes tipos de datos estándar](https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/wp-content/uploads/sites/4/2019/09/fig_4.png)
+
+**Figura 4** Relaciones entre diferentes tipos de estándares de datos. Figura modificada de una diapositiva proporcionada por Sandra Orchard.
+
+## Describir datos y metadatos de manera consistente
